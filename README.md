@@ -1,4 +1,4 @@
-# Quantum Error Correction with Sho95
+# Quantum Error Correction with Shor Code
 
 •	Assembled encoding and correction quantum circuits for bit-flip and phase-flip errors in qubits using Python 3 and Qiskit's quantum logic gates on IBM Quantum Lab, using superposition and entanglement properties.
 
